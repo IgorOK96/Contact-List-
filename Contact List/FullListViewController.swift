@@ -7,7 +7,7 @@
 
 import UIKit
 
-class FullListViewController: UITableViewController { var persons: [Person]! }
+final class FullListViewController: UITableViewController { var persons: [Person]! }
 
 // MARK: - UITableViewDataSource
 extension FullListViewController {

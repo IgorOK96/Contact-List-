@@ -10,5 +10,4 @@ struct Person {
     let surname: String
     let phoneNumber: String
     let email: String
-    
 }
