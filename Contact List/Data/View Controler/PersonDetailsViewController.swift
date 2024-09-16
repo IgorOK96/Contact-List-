@@ -8,7 +8,7 @@
 import UIKit
 
 final class PersonDetailsViewController: UIViewController {
-
+    
     var persons: Person!
     
     @IBOutlet var emailLabel: UILabel!
